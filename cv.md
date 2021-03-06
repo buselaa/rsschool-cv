@@ -1,6 +1,7 @@
 CV
 -------------
 *ALINA BUSEL*
+
  ***Junior FrontEnd Developer***
 
  email: busela@mail.ru
